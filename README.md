@@ -1,2 +1,2 @@
-# Project-29-Corrected
-Tower siege game with a polygon image.
+# p5.play-boilerplate
+Boiler plate for p5.play
